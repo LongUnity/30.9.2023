@@ -1,0 +1,8 @@
+C:\Users\May1\source\repos\OOP_Buoi7\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Users\May1\source\repos\OOP_Buoi7\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\May1\source\repos\OOP_Buoi7\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\May1\source\repos\OOP_Buoi7\Polymorphism\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\May1\source\repos\OOP_Buoi7\Polymorphism\obj\Debug\Polymorphism.csproj.SuggestedBindingRedirects.cache
+C:\Users\May1\source\repos\OOP_Buoi7\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\May1\source\repos\OOP_Buoi7\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Users\May1\source\repos\OOP_Buoi7\Polymorphism\obj\Debug\Polymorphism.pdb

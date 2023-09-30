@@ -1,0 +1,8 @@
+C:\Users\May1\source\repos\OOP_Buoi7\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\May1\source\repos\OOP_Buoi7\QLTV\bin\Debug\QLTV.exe
+C:\Users\May1\source\repos\OOP_Buoi7\QLTV\bin\Debug\QLTV.pdb
+C:\Users\May1\source\repos\OOP_Buoi7\QLTV\obj\Debug\QLTV.csproj.AssemblyReference.cache
+C:\Users\May1\source\repos\OOP_Buoi7\QLTV\obj\Debug\QLTV.csproj.SuggestedBindingRedirects.cache
+C:\Users\May1\source\repos\OOP_Buoi7\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+C:\Users\May1\source\repos\OOP_Buoi7\QLTV\obj\Debug\QLTV.exe
+C:\Users\May1\source\repos\OOP_Buoi7\QLTV\obj\Debug\QLTV.pdb
